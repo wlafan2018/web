@@ -1,5 +1,4 @@
-
-> 本文最初于2015-10-02发表于[博客园](http://www.cnblogs.com/smyhvae/p/4852863.html)，并在[GitHub](https://github.com/qianguyihao/Web)上持续更新**前端的系列文章**。欢迎在GitHub上关注我，一起入门和进阶前端。
+欢迎在GitHub上关注我，一起入门和进阶前端。
 
 > 以下是正文。
 
@@ -979,10 +978,3 @@ div  p  h1  span   a   img   ul   ol    dl    input
 知道每个标签的特殊用法、属性。比如a标签，img的属性。
 
 
-## 我的公众号
-
-想学习<font color=#0000ff>**代码之外的技能**</font>？不妨关注我的微信公众号（千古壹号id：`qianguyihao`）。
-
-扫一扫，你将发现另一个全新的世界，而这将是一场美丽的意外：
-
-![](http://img.smyhvae.com/cnblogs/%E7%94%9F%E5%91%BD%E5%9B%A2%E9%98%9F%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
