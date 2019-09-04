@@ -1,11 +1,8 @@
 
-
-> 本文最初于2015-10-01发表于[博客园](http://www.cnblogs.com/smyhvae/p/4850684.html)，并在[GitHub](https://github.com/qianguyihao/Web)上持续更新**前端的系列文章**。欢迎在GitHub上关注我，一起入门和进阶前端。
+欢迎在GitHub上关注我，一起入门和进阶前端。
 
 > 以下是正文。
 
-
-国庆节快乐，还在加班的童鞋，良辰必有重谢！
 
 ## 本文主要内容
 
@@ -1213,13 +1210,7 @@ PS：美女图就不放在 GitHub 上了，这么多 star，放了也不合适�
 
 怎么？还没看够？且看下文：[HTML标签----图文详解（二）](http://www.cnblogs.com/smyhvae/p/4852863.html)
 
-## 我的公众号
 
-想学习<font color=#0000ff>**代码之外的技能**</font>？不妨关注我的微信公众号（千古壹号id：`qianguyihao`）。
-
-扫一扫，你将发现另一个全新的世界，而这将是一场美丽的意外：
-
-![](http://img.smyhvae.com/cnblogs/%E7%94%9F%E5%91%BD%E5%9B%A2%E9%98%9F%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
 
 
 
