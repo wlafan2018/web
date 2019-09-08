@@ -1235,11 +1235,11 @@ aaa/../bbb/1.jpg
 
 上图中，点击菜单栏`插入-图像`，导入图片：
 
-![6](https://raw.githubusercontent.com/wlafan2018/web/master/images/6.PNG)
+![6](https://raw.githubusercontent.com/wlafan2018/web/master/images/6.png)
 
 ，在图片上点击右键，选择`属性`，弹出属性面板：
 
-![7副本](https://raw.githubusercontent.com/wlafan2018/web/master/images/7.PNG)
+![7](https://raw.githubusercontent.com/wlafan2018/web/master/images/7.png)
 
 上图中，我们可以利用红框部分的`地图`绘制需要添加超链接的区域。箭头处表示的是要链接到的文件。蓝框部分表示打开新页面的方式，蓝狂部分的`new`是没有下划线的，它和`_blank`的含义是一样的。
 
