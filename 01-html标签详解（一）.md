@@ -1182,11 +1182,11 @@ aaa/../bbb/1.jpg
 ```
 效果：
 
-![img2效果](D:\搜狗高速下载\12.前端开发\Web-master\01-html\img2效果.PNG)
+![img2效果](https://raw.githubusercontent.com/wlafan2018/web/master/images/img1.PNG)
 
 `Alt`属性效果演示：
 
-![img2效果2](D:\搜狗高速下载\12.前端开发\Web-master\01-html\img2效果2.PNG)
+![img2效果2](https://raw.githubusercontent.com/wlafan2018/web/master/images/img3.PNG)
 
  - 图片的`align`属性：**图片和周围文字的相对位置**。属性取值可以是：bottom（默认）、center、top、left、right。
 我们来分别看一下这`align`属性的这几个属性值的区别。
