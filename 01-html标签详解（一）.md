@@ -1182,7 +1182,7 @@ aaa/../bbb/1.jpg
 ```
 效果：
 
-![img2效果](https://raw.githubusercontent.com/wlafan2018/web/master/images/img1.PNG)
+![img2效果](https://raw.githubusercontent.com/wlafan2018/web/master/images/img2.PNG)
 
 `Alt`属性效果演示：
 
