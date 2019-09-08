@@ -1091,7 +1091,7 @@ aaa/../bbb/1.jpg
 上方代码的意思是说，当前页面有一个并列的文件夹`images`，在文件夹`images`中存放了一张图片p51494320.jpg
 效果：
 
-![img效果](https://raw.githubusercontent.com/wlafan2018/web/master/images/img1.png)
+![img效果](https://raw.githubusercontent.com/wlafan2018/web/master/images/img1.PNG)
 
 !相对路径的面试题。现有如下文件层级图：
 
