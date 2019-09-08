@@ -1193,23 +1193,23 @@ aaa/../bbb/1.jpg
 
 1、`align=""`，图片和文字低端对齐。即默认情况下的显示效果：
 
-![1](D:\搜狗高速下载\12.前端开发\Web-master\01-html\images\1.png)
+![1](blob/master/images/1.PNG)
 
 2、`align="center"`：图片和文字水平方向上居中对齐。显示效果：
 
-![2](D:\搜狗高速下载\12.前端开发\Web-master\01-html\images\2.png)
+![2](blob/master/images/2.PNG)
 
 3、`align="top"`：图片与文字顶端对齐。显示效果：
 
-![3](D:\搜狗高速下载\12.前端开发\Web-master\01-html\images\3.png)
+![3](blob/master/images/3.PNG)
 
 4、`align="left"`：图片在文字的左边。显示效果：
 
-![4](D:\搜狗高速下载\12.前端开发\Web-master\01-html\images\4.png)
+![4](blob/master/images/4.PNG)
 
 5、`align="right"`：图片在文字的右边。显示效果：
 
-![5](D:\搜狗高速下载\12.前端开发\Web-master\01-html\images\5.png)
+![5](blob/master/images/5.PNG)
 
 **注意事项：**
 （1）如果要想保证图片等比例缩放，请只设置width和height中其中一个。
